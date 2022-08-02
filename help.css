@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* For the Header */
+h3 {
+    margin-top: 100x;
+    margin-left: 100px;
+    color: darkgray;
+}
+.h-container {
+    display: grid;
+    background-color: white;
+    margin-left: 10px;
+    column-gap: 10px;
+}
+.h-grid-1 {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(185, 184, 184, 0.8);
+    padding: 20px;
+    font-size: 10px;
+    text-align: center;
+}
+.h-grid-2 {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(185, 184, 184, 0.8);
+    padding: 20px;
+    font-size: 10px;
+    text-align: center;
+}
+
+/* For the main body*/
+
+/* For the Search space and button */
+.search-grid {
+
+}
+.s-grid-1{
+
+}
+.s-grid-2{
+
+}
+
+/* For the Popular Question Section*/
+.question-grid{
+
+}
+.q-grid{
+
+}
+/*For the Category section*/
+p{
+    text-align: center;
+}
+.category-grid{
+
+}
+.c-grid-1{
+
+}
+.c-grid-2{
+
+}
+.c-grid-3{
+
+}
+.c-grid-4{
+
+}
+/*For More Questions*/
+.btn{
+    
+}
+
